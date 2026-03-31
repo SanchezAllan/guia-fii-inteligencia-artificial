@@ -33,8 +33,10 @@ Para este estudo, foram utilizados os seguintes documentos como base de conhecim
 https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
 2. **Relatório Gerencial HGLG11**: Fundo de logística (Tijolo).[hglg.pdf](https://github.com/user-attachments/files/26390449/hglg.pdf)
 3. **Relatório Gerencial KNCR11 (Mês/Ano)**: Fundo de recebíveis imobiliários (Papel).[kncr.pdf](https://github.com/user-attachments/files/26390448/kncr.pdf)
-4. **Vídeo**: COMO MONTAR UMA CARTEIRA DE FUNDOS IMOBILIÁRIOS (COM R$1.000) ( O primo Rico)
+4. **Vídeo**: COMO MONTAR UMA CARTEIRA DE FUNDOS IMOBILIÁRIOS (COM R$1.000) ( O primo Rico) 
+https://www.youtube.com/watch?v=gOuYvRw5kE4
 5. **Vídeo**: Aula sobre Fundos Imobiliários (do Zero para Iniciantes) ( primo pobre)
+https://www.youtube.com/watch?v=z3fTzc0q10M
 6. [Guia de Fundos de Investimento Imobiliários.pdf](https://github.com/user-attachments/files/26390447/Guia.de.Fundos.de.Investimento.Imobiliarios.pdf)
 7. [E-book-Sobre-Fundos-de-Investimentos-Imobiliários-2.0.pdf](https://github.com/user-attachments/files/26390445/E-book-Sobre-Fundos-de-Investimentos-Imobiliarios-2.0.pdf)
 8. [Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf](https://github.com/user-attachments/files/26390443/Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf)
