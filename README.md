@@ -1,4 +1,4 @@
-# guia-fii-inteligencia-artificial
+[Fundos_de_Investimentos_Imobiliarios.pdf](https://github.com/user-attachments/files/26390439/Fundos_de_Investimentos_Imobiliarios.pdf)# guia-fii-inteligencia-artificial
 o objetivo é utilizar o NotebookLM para analisar o mercado de Fundos Imobiliários em 2026, focando em entender indicadores como Dividend Yield, P/VP e vacância, facilitando a tomada de decisão para investidores iniciantes.
 
 ## 🛠️ Engenharia de Prompts
@@ -26,9 +26,15 @@ Nesta etapa, realizei testes para validar a precisão da IA:
   - **Cicatriz:** Achei a explicação justa mas sem muita criatividade para um aluno de ensino médio, e senti falta de um maior aprofundamento sobre fiis de papel. Após pedir explicações adicionais a IA entregou resultado além do esperado. 
 
 
+
   ## 📚 Curadoria de Fontes
 Para este estudo, foram utilizados os seguintes documentos como base de conhecimento para a IA:
 1. **Guia de FIIs da B3**: Manual oficial sobre o funcionamento dos fundos.
-2. **Relatório Gerencial HGLG11 (Mês/Ano)**: Fundo de logística (Tijolo).
-3. **Relatório Gerencial KNCR11 (Mês/Ano)**: Fundo de recebíveis imobiliários (Papel).
-4. **Artigo Complementar**: [Inserir link ou nome do artigo sobre Selic/FIIs].
+https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/fundos-de-investimento-imobiliario-fii.htm
+2. **Relatório Gerencial HGLG11**: Fundo de logística (Tijolo).[hglg.pdf](https://github.com/user-attachments/files/26390449/hglg.pdf)
+3. **Relatório Gerencial KNCR11 (Mês/Ano)**: Fundo de recebíveis imobiliários (Papel).[kncr.pdf](https://github.com/user-attachments/files/26390448/kncr.pdf)
+4. **Vídeo**: COMO MONTAR UMA CARTEIRA DE FUNDOS IMOBILIÁRIOS (COM R$1.000) ( O primo Rico)
+5. **Vídeo**: Aula sobre Fundos Imobiliários (do Zero para Iniciantes) ( primo pobre)
+6. [Guia de Fundos de Investimento Imobiliários.pdf](https://github.com/user-attachments/files/26390447/Guia.de.Fundos.de.Investimento.Imobiliarios.pdf)
+7. [E-book-Sobre-Fundos-de-Investimentos-Imobiliários-2.0.pdf](https://github.com/user-attachments/files/26390445/E-book-Sobre-Fundos-de-Investimentos-Imobiliarios-2.0.pdf)
+8. [Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf](https://github.com/user-attachments/files/26390443/Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf)
