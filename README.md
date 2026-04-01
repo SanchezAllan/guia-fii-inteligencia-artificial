@@ -40,3 +40,7 @@ https://www.youtube.com/watch?v=z3fTzc0q10M
 6. [Guia de Fundos de Investimento Imobiliários.pdf](https://github.com/user-attachments/files/26390447/Guia.de.Fundos.de.Investimento.Imobiliarios.pdf)
 7. [E-book-Sobre-Fundos-de-Investimentos-Imobiliários-2.0.pdf](https://github.com/user-attachments/files/26390445/E-book-Sobre-Fundos-de-Investimentos-Imobiliarios-2.0.pdf)
 8. [Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf](https://github.com/user-attachments/files/26390443/Ebook-viver-de-renda-com-fundos-imobiliarios-FIIs.pdf)
+
+
+## Link NotebookLM com a atividade
+https://notebooklm.google.com/notebook/e0e9cf03-35b5-4704-91e4-361e0bbbe9f7
